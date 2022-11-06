@@ -1,0 +1,2 @@
+set = {"d","d1",0,0,"task"} # unordered,no duplicates,{}
+print(set)
